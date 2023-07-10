@@ -1,0 +1,6 @@
+C:\Users\levin\Desktop\Network2\Network\x64\Release\Network.vcxproj.AssemblyReference.cache
+C:\Users\levin\Desktop\Network2\Network\x64\Release\Network.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\levin\Desktop\Network2\Network\x64\Release\Network.Form1.resources
+C:\Users\levin\Desktop\Network2\Network\x64\Release\Network.Form2.resources
+C:\Users\levin\Desktop\Network2\Network\x64\Release\Network.vcxproj.GenerateResource.cache
+C:\Users\levin\Desktop\Network2\Network\x64\Release\Network.exe

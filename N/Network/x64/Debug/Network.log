@@ -1,0 +1,6 @@
+﻿  Form1.cpp
+  Form2.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Network.vcxproj -> C:\Users\levin\Desktop\Network2\Network\x64\Debug\Network.exe
